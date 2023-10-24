@@ -15,10 +15,10 @@
     "simple-line-icons": "2.4.1"
   },
   "devDependencies": {
-    "browser-sync": "^2.16.0",
+    "browser-sync": "^2.29.3",
     "compass-mixins": "^0.12.10",
     "del": "2.2.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-inject": "4.3.0",
     "gulp-inject-partials": "^1.0.3",
     "gulp-rename": "^1.2.2",
